@@ -1,8 +1,8 @@
+## README for system_monitor.sh
+
 ## Progress
 After 2 weeks with linux and learning alot in it daily for around 3 hours a day.
 This is my first offical working project.
-
-# system_monitor.sh
 
 # What it does
 Monitors system health by logging disk usage, memory usage, and error count from a log file. Saves everything with a timestamp and saves it to whatever file you set it to save the logs.
