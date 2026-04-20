@@ -1,0 +1,390 @@
+--Wed Apr 15 11:52:44 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.4Gi        11Gi       215Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+--Wed Apr 15 12:26:36 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.2Gi        11Gi       218Mi       6.6Gi        22Gi
+Swap:          8.0Gi          0B       8.0Gi
+--Wed Apr 15 12:28:59 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   68M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.2Gi        11Gi       217Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:29:00 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   68M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.2Gi        11Gi       217Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:29:00 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.3Gi        11Gi       219Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:29:00 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.3Gi        11Gi       219Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:29:00 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.3Gi        11Gi       219Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:29:41 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   68M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.4Gi        11Gi       217Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:29:48 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   68M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.2Gi        11Gi       217Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:30:44 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.4Gi        11Gi       220Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:31:57 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   68M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.2Gi        11Gi       217Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Wed Apr 15 12:33:40 PM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   21G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   73M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   51M   16G   1% /tmp
+/dev/sda3       929G   21G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.4Gi        11Gi       222Mi       6.6Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 10:51:14 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   88M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.5Gi        10Gi       263Mi       7.5Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 10:54:59 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   81M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.5Gi        10Gi       253Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 10:55:20 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   84M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.5Gi        10Gi       255Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 10:56:14 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   77M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+tmpfs           3.2G   44K  3.2G   1% /run/user/0
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.7Gi        10Gi       249Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 11:35:08 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   73M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.6Gi        10Gi       254Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 11:35:33 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.6Gi        10Gi       252Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 11:36:18 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   73M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.7Gi        10Gi       255Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Thu Apr 16 11:40:23 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  907G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G   71M   16G   1% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  2.1M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G   61M   16G   1% /tmp
+/dev/sda3       929G   22G  907G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       9.5Gi        10Gi       250Mi       7.4Gi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
+--Sat Apr 18 11:43:05 AM SAST 2026--
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3       929G   22G  906G   3% /
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G     0   16G   0% /dev/shm
+efivarfs        128K   50K   74K  40% /sys/firmware/efi/efivars
+tmpfs           6.3G  1.6M  6.3G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            16G     0   16G   0% /tmp
+/dev/sda3       929G   22G  906G   3% /home
+/dev/sda2       2.0G  783M  1.1G  43% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       950Mi        30Gi       1.5Mi       202Mi        30Gi
+Swap:          8.0Gi          0B       8.0Gi
+0
